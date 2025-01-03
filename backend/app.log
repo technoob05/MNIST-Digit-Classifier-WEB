@@ -1,0 +1,100 @@
+2024-12-30 20:29:49,057 - INFO - Loading model...
+2024-12-30 20:29:49,058 - ERROR - Error loading model: [Errno 2] No such file or directory: 'mnist_model.pkl'
+2024-12-30 20:29:49,058 - ERROR - Failed to load model at startup: [Errno 2] No such file or directory: 'mnist_model.pkl'
+2024-12-30 20:29:49,598 - INFO - Loading model...
+2024-12-30 20:29:49,600 - ERROR - Error loading model: [Errno 2] No such file or directory: 'mnist_model.pkl'
+2024-12-30 20:29:49,600 - ERROR - Failed to load model at startup: [Errno 2] No such file or directory: 'mnist_model.pkl'
+2024-12-30 20:30:00,562 - ERROR - Unhandled error: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2024-12-30 20:30:17,723 - ERROR - Error making prediction: cannot access local variable 'MODEL' where it is not associated with a value
+2024-12-30 20:30:31,230 - ERROR - Unhandled error: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2024-12-30 20:31:57,935 - ERROR - Error making prediction: cannot access local variable 'MODEL' where it is not associated with a value
+2024-12-30 20:32:09,167 - INFO - Loading model...
+2024-12-30 20:32:09,200 - INFO - Model loaded successfully
+2024-12-30 20:32:09,673 - INFO - Loading model...
+2024-12-30 20:32:09,720 - INFO - Model loaded successfully
+2024-12-30 20:32:22,855 - ERROR - Error making prediction: cannot access local variable 'MODEL' where it is not associated with a value
+2024-12-30 20:33:48,615 - INFO - Loading model...
+2024-12-30 20:33:48,644 - INFO - Model loaded successfully
+2024-12-30 20:33:49,108 - INFO - Loading model...
+2024-12-30 20:33:49,137 - INFO - Model loaded successfully
+2024-12-30 20:34:03,177 - ERROR - Error making prediction: cannot access local variable 'MODEL' where it is not associated with a value
+2024-12-30 20:34:12,356 - ERROR - Error making prediction: cannot access local variable 'MODEL' where it is not associated with a value
+2024-12-30 20:34:44,076 - INFO - Loading model...
+2024-12-30 20:34:44,107 - INFO - Model loaded successfully
+2024-12-30 20:34:50,745 - ERROR - Error making prediction: 'dict' object has no attribute 'predict'
+2024-12-30 20:37:14,892 - INFO - Loading model...
+2024-12-30 20:37:14,929 - ERROR - Error loading model: EnhancedMNISTNeuralNetwork.__init__() got an unexpected keyword argument 'eta'
+2024-12-30 20:37:57,015 - INFO - Loading model...
+2024-12-30 20:37:57,050 - ERROR - Error loading model: EnhancedMNISTNeuralNetwork.__init__() got an unexpected keyword argument 'eta'
+2024-12-30 20:38:02,941 - INFO - Loading model...
+2024-12-30 20:38:02,978 - ERROR - Error loading model: EnhancedMNISTNeuralNetwork.__init__() got an unexpected keyword argument 'eta'
+2024-12-30 20:39:23,352 - INFO - Loading model...
+2024-12-30 20:39:23,428 - INFO - Model loaded successfully
+2024-12-30 20:39:23,906 - INFO - Loading model...
+2024-12-30 20:39:23,966 - INFO - Model loaded successfully
+2024-12-30 20:39:40,824 - INFO - Made prediction: 2 with confidence 0.5821
+2024-12-30 20:39:51,459 - INFO - Made prediction: 5 with confidence 0.7477
+2024-12-30 20:41:42,402 - INFO - Made prediction: 6 with confidence 0.5047
+2024-12-30 20:41:43,650 - INFO - Made prediction: 6 with confidence 0.4831
+2024-12-30 20:42:11,194 - INFO - Made prediction: 2 with confidence 0.9509
+2024-12-30 20:42:12,452 - INFO - Made prediction: 2 with confidence 0.9981
+2024-12-30 20:42:14,354 - INFO - Made prediction: 2 with confidence 0.9931
+2024-12-30 20:42:15,346 - INFO - Made prediction: 2 with confidence 0.9963
+2024-12-30 20:42:16,587 - INFO - Made prediction: 2 with confidence 0.9983
+2024-12-30 20:42:18,119 - INFO - Made prediction: 7 with confidence 0.9890
+2024-12-30 20:42:19,327 - INFO - Made prediction: 7 with confidence 0.9733
+2024-12-30 20:42:20,716 - INFO - Made prediction: 2 with confidence 0.9975
+2024-12-30 20:42:22,020 - INFO - Made prediction: 2 with confidence 0.9953
+2024-12-30 20:42:22,638 - INFO - Made prediction: 2 with confidence 0.9983
+2024-12-30 20:42:23,546 - INFO - Made prediction: 2 with confidence 0.9965
+2024-12-30 20:42:24,505 - INFO - Made prediction: 2 with confidence 0.9994
+2024-12-30 20:42:28,927 - INFO - Made prediction: 2 with confidence 0.8032
+2024-12-30 20:42:40,375 - INFO - Made prediction: 7 with confidence 0.9364
+2024-12-30 20:42:45,191 - INFO - Made prediction: 8 with confidence 0.4358
+2024-12-30 20:43:07,193 - INFO - Made prediction: 1 with confidence 0.8514
+2024-12-30 20:43:16,443 - INFO - Made prediction: 4 with confidence 0.2372
+2024-12-30 20:44:00,457 - INFO - Made prediction: 0 with confidence 0.4508
+2024-12-30 20:49:12,102 - INFO - Made prediction: 2 with confidence 0.5821
+2024-12-30 20:49:28,414 - INFO - Made prediction: 2 with confidence 0.3438
+2024-12-30 20:49:34,752 - INFO - Made prediction: 5 with confidence 0.4103
+2024-12-30 20:54:32,640 - INFO - Loading model...
+2024-12-30 20:54:32,715 - INFO - Model loaded successfully
+2024-12-30 20:54:41,398 - INFO - Loading model...
+2024-12-30 20:54:41,462 - INFO - Model loaded successfully
+2024-12-30 20:55:05,160 - INFO - Made prediction: 3 with confidence 1.0000
+2024-12-30 20:55:11,044 - INFO - Made prediction: 3 with confidence 0.9967
+2024-12-30 20:55:16,115 - INFO - Made prediction: 3 with confidence 0.9880
+2024-12-30 20:55:20,554 - INFO - Made prediction: 2 with confidence 0.9989
+2024-12-30 20:55:27,057 - INFO - Made prediction: 7 with confidence 0.3506
+2024-12-30 20:55:34,301 - INFO - Made prediction: 7 with confidence 0.3506
+2024-12-30 20:55:41,590 - INFO - Made prediction: 3 with confidence 0.9986
+2024-12-30 20:55:51,837 - INFO - Made prediction: 0 with confidence 0.7740
+2024-12-30 20:56:11,147 - INFO - Made prediction: 5 with confidence 0.2997
+2024-12-30 20:56:13,946 - INFO - Made prediction: 5 with confidence 0.8339
+2024-12-30 20:56:15,067 - INFO - Made prediction: 5 with confidence 0.7524
+2024-12-30 20:56:15,857 - INFO - Made prediction: 5 with confidence 0.8439
+2024-12-30 20:56:33,487 - INFO - Made prediction: 3 with confidence 0.5297
+2024-12-30 20:56:34,339 - INFO - Made prediction: 2 with confidence 0.9652
+2024-12-30 20:56:35,469 - INFO - Made prediction: 2 with confidence 0.9486
+2024-12-30 20:56:36,239 - INFO - Made prediction: 2 with confidence 0.9347
+2024-12-30 20:56:37,591 - INFO - Made prediction: 2 with confidence 0.9932
+2024-12-30 20:56:38,190 - INFO - Made prediction: 2 with confidence 0.9922
+2024-12-30 20:56:39,230 - INFO - Made prediction: 7 with confidence 0.9729
+2024-12-30 20:56:40,014 - INFO - Made prediction: 7 with confidence 0.4211
+2024-12-30 20:56:40,943 - INFO - Made prediction: 7 with confidence 0.6224
+2024-12-30 20:56:41,133 - INFO - Made prediction: 7 with confidence 0.9021
+2024-12-30 20:56:41,208 - INFO - Made prediction: 2 with confidence 0.4635
+2024-12-30 21:06:12,428 - INFO - Made prediction: 2 with confidence 0.4187
+2024-12-30 21:06:13,758 - INFO - Made prediction: 5 with confidence 0.2880
+2024-12-30 21:06:18,412 - INFO - Made prediction: 5 with confidence 0.8562
+2024-12-30 21:11:19,215 - INFO - Loading model...
+2024-12-30 21:11:19,302 - INFO - Model loaded successfully
+2024-12-30 21:16:07,085 - INFO - Loading model...
+2024-12-30 21:16:07,158 - INFO - Model loaded successfully
+2024-12-30 21:19:38,336 - INFO - Loading model...
+2024-12-30 21:19:38,402 - INFO - Model loaded successfully
+2024-12-30 22:09:35,482 - ERROR - Unhandled error: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2025-01-03 15:33:59,245 - INFO - Loading model...
+2025-01-03 15:33:59,312 - INFO - Model loaded successfully
+2025-01-03 15:33:59,886 - INFO - Loading model...
+2025-01-03 15:33:59,943 - INFO - Model loaded successfully
