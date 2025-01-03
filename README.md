@@ -2,7 +2,8 @@
 
 A modern web application that performs real-time digit recognition using a custom neural network trained on the MNIST dataset. This application supports both webcam capture and image upload for digit classification.
 
-![Demo Screenshot](/api/placeholder/800/400)
+![image](https://github.com/user-attachments/assets/954e5273-4365-4ac8-bbf3-3be9307cdae2)
+
 
 ## Features
 
